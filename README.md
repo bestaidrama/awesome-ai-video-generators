@@ -114,6 +114,7 @@ Tools whose input is a script, a novel or a story idea and whose output is episo
 - [Kling AI](https://klingai.com/) — Kuaishou's video generation models and app: text-to-video, image-to-video, lip sync, a developer API.
 - [Leonardo.Ai](https://leonardo.ai/) — Image generation platform with a Motion feature for animating images into short clips.
 - [Midjourney](https://www.midjourney.com/) — Image generation service that added video generation from its images in 2025.
+- [MuAPI](https://muapi.ai/ai-video-api) — Hosted developer API for video generation across supported models.
 - [Pika](https://pika.art/) — Pika Labs' text- and image-to-video app with in-video effects and editing.
 - [PixVerse](https://pixverse.ai/) — Text- and image-to-video app and API with effects templates.
 - [Seedance (BytePlus ModelArk)](https://www.byteplus.com/en/product/modelark) — ByteDance's Seedance video models, sold to developers through BytePlus ModelArk (Volcano Engine Ark in China).
