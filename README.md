@@ -118,6 +118,7 @@ Tools whose input is a script, a novel or a story idea and whose output is episo
 - [PixVerse](https://pixverse.ai/) — Text- and image-to-video app and API with effects templates.
 - [Seedance (BytePlus ModelArk)](https://www.byteplus.com/en/product/modelark) — ByteDance's Seedance video models, sold to developers through BytePlus ModelArk (Volcano Engine Ark in China).
 - [Sora (OpenAI)](https://openai.com/sora/) — OpenAI's video generation model and app.
+- [Sora2 Hub](https://sora2hub.org/) — Browser-based AI image and video generation platform for making images and short videos from text prompts and reference images.
 - [Synthesia](https://www.synthesia.io/) — Avatar-presenter video platform for training and corporate video, with AI dubbing.
 - [Veo (Google DeepMind)](https://deepmind.google/models/veo/) — Google's video generation models, available in Flow, Gemini and the Gemini API.
 - [Wan (Alibaba)](https://wan.video/) — Alibaba's Wan video models: hosted at wan.video, sold by the second through Model Studio, with open weights for earlier versions.
