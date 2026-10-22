@@ -125,10 +125,13 @@ Tools whose input is a script, a novel or a story idea and whose output is episo
 ### Comics, animation and other
 
 - [AI Drama Production Studio (dreamaishort.com)](https://dreamaishort.com/) — Done-for-you AI drama production service that scripts, casts, voices and edits AI drama series for TikTok and Shorts, priced per finished minute.
+- [Alors On Danse Video Maker](https://alorsondansevideo.com/) — Independent paid web app (not affiliated with Stromae, the rights holders or TikTok; no original song included) that turns two portrait photos into a 13-second two-person AI studio dance video; source: the site's homepage.
 - [Anifusion](https://anifusion.ai/) — AI manga and webtoon creator with panel layouts, characters and speech bubbles plus an animator that turns images into short video.
 - [Autodesk Flow Studio (formerly Wonder Studio)](https://flowstudio.autodesk.com/) — Autodesk cloud tool that uses AI for motion capture, camera tracking and character animation to place CG characters into live-action footage and export editable 3D scenes.
+- [Bad Times AI](https://badtimesai.dev/) — Independent paid web tool (from $7.99 one-time) that turns one portrait, group or pet photo into an AI-generated dance effect video using one of five templates; source: the site's homepage.
 - [Drawstory](https://www.drawstory.ai/) — AI storyboarding and previs tool that converts uploaded screenplays into storyboards and comics with user-supplied characters, plus pitch and storyboard-to-video tools.
 - [Hedra](https://www.hedra.com/) — Generative media platform known for its Character-3 model that animates a portrait with audio into talking, lip-synced character video.
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com/) — Independent paid web tool (from $7.99 one-time; not affiliated with the meme creator, artists, rights holders or TikTok) that turns two portrait photos into a short AI-generated encounter effect video with a balcony-and-spotlight scene; source: the site's homepage.
 - [Intangible](https://www.intangible.ai/) — Browser-based AI 3D studio where teams build sets, place cameras and animate a scene in 3D, then render images and video with generative models, used for film previs, ads and events.
 - [Katalist](https://www.katalist.ai/) — Script-to-storyboard-to-video platform with consistent characters and Premiere Pro export, now marketed mainly to performance-marketing teams for ad variants and product swaps.
 - [KomikoAI](https://komiko.app/) — Anime-focused creation suite for original characters, AI comics and animation videos, with series and interactive story formats.
