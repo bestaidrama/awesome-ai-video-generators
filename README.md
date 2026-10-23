@@ -135,6 +135,7 @@ Tools whose input is a script, a novel or a story idea and whose output is episo
 - [LlamaGen (Comic to Video)](https://llamagen.ai/comic-to-video) — AI comic, manga and webtoon platform with a comic-to-video tool that animates finished panels into teasers and short scenes.
 - [Moonvalley Marey](https://www.moonvalley.com/marey) — AI video model and app (Marey) trained on licensed footage, offering text- and image-to-video with camera, motion, pose and keyframe controls, marketed to filmmakers, studios and agencies.
 - [Storyboarder.ai](https://www.storyboarder.ai/) — Pre-production tool that turns an uploaded script into a shot list, storyboard frames with consistent characters, 3D camera-angle reframing and animatics, with short image-to-video clips.
+- [Window Peeper AI](https://windowpeeperai.pro/) — Browser generator for the Window Peeper meme scene that turns one adult portrait into a 14-second 9:16 MP4 with Wan 3.0, sold as one-time credit packs ([pricing](https://windowpeeperai.pro/pricing)).
 
 ## Open-weight video models
 
