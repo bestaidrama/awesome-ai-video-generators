@@ -78,6 +78,7 @@ Tools whose input is a script, a novel or a story idea and whose output is episo
 - [Flixly](https://www.flixly.ai/) — Pay-as-you-go aggregator of 117 image, video and audio models with creator tools, including a series generator that builds anime episodes scene by scene with character consistency.
 - [Flova AI](https://www.flova.ai/en/) — Agent-based video creation platform that plans scripts and storyboards and generates image, video and audio into a timeline, used for shorts, serialized stories and micro-dramas.
 - [HeyGen AI Movie Maker](https://www.heygen.com/tool/ai-movie-maker) — Feature inside the HeyGen avatar-video platform that turns a script or one-line idea into a multi-scene film via its Video Agent, with consistent avatar-based characters, voices and lip sync.
+- [RemakeThat](https://remakethat.com/) — Remake engine that turns a linked winning TikTok or Facebook video into an original faceless affiliate video starring an AI avatar, per its homepage.
 - [Luma (Dream Machine / Luma Agents)](https://lumalabs.ai/) — Luma's creative-agent platform with its Ray3.2 video and Uni-1 image models plus third-party models, used for VFX, ads, animation and storyboards.
 - [LumeFlow AI](https://www.lumeflow.ai/) — Multi-model AI image and video generator with an AI story tool that expands a prompt into a script and long-form story video.
 - [Medeo](https://www.medeo.app/) — Chat-based AI video maker with multi-model generation, character identity lock and 16:9/9:16 export.
