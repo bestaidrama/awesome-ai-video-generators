@@ -121,6 +121,7 @@ Tools whose input is a script, a novel or a story idea and whose output is episo
 - [Synthesia](https://www.synthesia.io/) — Avatar-presenter video platform for training and corporate video, with AI dubbing.
 - [Veo (Google DeepMind)](https://deepmind.google/models/veo/) — Google's video generation models, available in Flow, Gemini and the Gemini API.
 - [Wan (Alibaba)](https://wan.video/) — Alibaba's Wan video models: hosted at wan.video, sold by the second through Model Studio, with open weights for earlier versions.
+- [Photoshoot](https://photoshoot.app/) — Multi-model visual workspace that turns product and fashion reference photos into studio-grade images and videos for e-commerce.
 
 ### Comics, animation and other
 
