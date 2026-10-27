@@ -136,6 +136,8 @@ Tools whose input is a script, a novel or a story idea and whose output is episo
 - [Moonvalley Marey](https://www.moonvalley.com/marey) — AI video model and app (Marey) trained on licensed footage, offering text- and image-to-video with camera, motion, pose and keyframe controls, marketed to filmmakers, studios and agencies.
 - [Storyboarder.ai](https://www.storyboarder.ai/) — Pre-production tool that turns an uploaded script into a shot list, storyboard frames with consistent characters, 3D camera-angle reframing and animatics, with short image-to-video clips.
 
+- [Explainimate](https://explainimate.com) — AI tool that turns a topic or script into a hand-drawn whiteboard explainer video; you edit the script first, then a pen draws each scene in sync with narration.
+
 ## Open-weight video models
 
 Models with published weights, as recorded on [NodeValid](https://nodevalid.com/) from the vendors' own repositories and model cards.
