@@ -76,6 +76,7 @@ Tools whose input is a script, a novel or a story idea and whose output is episo
 
 - [CrePal](https://crepal.ai/) — Chat-based AI video agent ('AI Director') that writes the script, generates images and assembles videos, with mini-apps for AI stories, music videos, ads and explainers.
 - [Flixly](https://www.flixly.ai/) — Pay-as-you-go aggregator of 117 image, video and audio models with creator tools, including a series generator that builds anime episodes scene by scene with character consistency.
+- [Cyanvid](https://cyanvid.com/?utm_source=awesome-ai-video-generators&utm_medium=directory&utm_campaign=backlinks) — Multi-model AI video generator SaaS: text-to-video and image-to-video with credit quotes before generation (Wan, Seedance, Kling, Veo and others).
 - [Flova AI](https://www.flova.ai/en/) — Agent-based video creation platform that plans scripts and storyboards and generates image, video and audio into a timeline, used for shorts, serialized stories and micro-dramas.
 - [HeyGen AI Movie Maker](https://www.heygen.com/tool/ai-movie-maker) — Feature inside the HeyGen avatar-video platform that turns a script or one-line idea into a multi-scene film via its Video Agent, with consistent avatar-based characters, voices and lip sync.
 - [Luma (Dream Machine / Luma Agents)](https://lumalabs.ai/) — Luma's creative-agent platform with its Ray3.2 video and Uni-1 image models plus third-party models, used for VFX, ads, animation and storyboards.
