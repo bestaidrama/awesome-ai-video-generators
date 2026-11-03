@@ -117,6 +117,7 @@ Tools whose input is a script, a novel or a story idea and whose output is episo
 - [Pika](https://pika.art/) — Pika Labs' text- and image-to-video app with in-video effects and editing.
 - [PixVerse](https://pixverse.ai/) — Text- and image-to-video app and API with effects templates.
 - [Seedance (BytePlus ModelArk)](https://www.byteplus.com/en/product/modelark) — ByteDance's Seedance video models, sold to developers through BytePlus ModelArk (Volcano Engine Ark in China).
+- [Seedance Now](https://seedancenow.com/) — Independent browser-based video and image studio that runs Seedance 2.5, Kling 4.0 and Wan 3.0 for text- and image-to-video clips up to 30 s at 1080p; not affiliated with ByteDance.
 - [Sora (OpenAI)](https://openai.com/sora/) — OpenAI's video generation model and app.
 - [Synthesia](https://www.synthesia.io/) — Avatar-presenter video platform for training and corporate video, with AI dubbing.
 - [Veo (Google DeepMind)](https://deepmind.google/models/veo/) — Google's video generation models, available in Flow, Gemini and the Gemini API.
