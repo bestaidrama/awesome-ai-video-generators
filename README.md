@@ -116,6 +116,9 @@ Tools whose input is a script, a novel or a story idea and whose output is episo
 - [Midjourney](https://www.midjourney.com/) — Image generation service that added video generation from its images in 2025.
 - [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
 - [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 - [Pika](https://pika.art/) — Pika Labs' text- and image-to-video app with in-video effects and editing.
 - [PixVerse](https://pixverse.ai/) — Text- and image-to-video app and API with effects templates.
 - [Seedance (BytePlus ModelArk)](https://www.byteplus.com/en/product/modelark) — ByteDance's Seedance video models, sold to developers through BytePlus ModelArk (Volcano Engine Ark in China).
