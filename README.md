@@ -61,6 +61,7 @@ Tools whose input is a script, a novel or a story idea and whose output is episo
 ### Story and faceless video
 
 - [AutoFaceless.ai](https://autofaceless.ai/) — Faceless channel automation that creates and posts topic-based video series daily; landing page directs to a waitlist.
+- [ContentRoof](https://contentroof.com/) — Text-to-video maker that writes, narrates and animates short explainer and story videos with word-by-word captions in 11 languages; free plan of 5 videos a month.
 - [Crreo AI](https://www.crreo.ai/) — Script-to-video maker for 1 to 30-minute narrated videos with recurring characters, voice control and music, marketed for micro-dramas among other formats.
 - [Elser AI](https://www.elser.ai/anime) — AI anime and movie generator that turns a story idea or script into styled animated shorts, drama episodes and trailers with voiceover.
 - [Faceless.so](https://faceless.so/) — Faceless video automation that writes, voices, edits and auto-posts niche story and fact videos as scheduled series.
