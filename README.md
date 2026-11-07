@@ -85,6 +85,7 @@ Tools whose input is a script, a novel or a story idea and whose output is episo
 - [Revid AI Movie Maker](https://www.revid.ai/tools/ai-movie-maker) — Short-form video creation and publishing platform whose AI movie maker writes a scene script from a prompt and generates a narrated cinematic video with voices.
 - [Runway](https://runwayml.com/) — AI image and video platform with its own Gen-4.5 / Aleph models plus third-party models, an agentic creative collaborator and project workspaces.
 - [SkyReels](https://www.skyreels.ai/) — AI video generation platform built around the SkyReels V4 model with multimodal references and audio-synchronised clips; earlier marketed as an AI short-drama platform.
+- [ToyCarToReal](https://toycartoreal.com/) — Single-photo car transition generator outputting ~10-second and ~15-second 9:16 vertical MP4 clips in 480p or 768p HD across three train-window-to-road scenes, sold in one-time credit packs from $6.99 ([pricing](https://toycartoreal.com/pricing), read 2026-11-08).
 - [Vidu (Q3 for comic dramas / short series)](https://www.vidu.com/vidu-q3) — Vidu Q3 video model generating up to 16-second clips with native dialogue and audio, positioned for comic dramas, films and short series.
 - [Vivideo AI Movie Generator](https://vivideo.ai/solutions/ai-movie-generator) — Multi-model AI video platform whose movie generator turns a logline or script into a scene plan and assembles a multi-scene film with narration, music and titles.
 
