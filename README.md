@@ -111,7 +111,7 @@ Tools whose input is a script, a novel or a story idea and whose output is episo
 - [D-ID](https://www.d-id.com/) — Talking-avatar and video agent platform, with an API.
 - [Genmo](https://www.genmo.ai/) — Video generation service from the makers of the open-weight Mochi model.
 - [Hailuo AI (MiniMax)](https://hailuoai.video/) — MiniMax's video generation service built on its Hailuo models, with an API.
-- [Kling AI](https://klingai.com/) — Kuaishou's video generation models and app: text-to-video, image-to-video, lip sync, a developer API.
+- [Kling AI](https://klingai.com/) — Kuaishou's video generation models and app: text-to-video, image-to-video, lip sync, a developer API, and an [MCP/CLI guide](https://kling.ai/app/mcp/guide) for agent workflows.
 - [Leonardo.Ai](https://leonardo.ai/) — Image generation platform with a Motion feature for animating images into short clips.
 - [Midjourney](https://www.midjourney.com/) — Image generation service that added video generation from its images in 2025.
 - [Pika](https://pika.art/) — Pika Labs' text- and image-to-video app with in-video effects and editing.
