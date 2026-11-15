@@ -108,6 +108,7 @@ Tools whose input is a script, a novel or a story idea and whose output is episo
 ### Video models and platforms
 
 - [Adobe Firefly](https://firefly.adobe.com/) — Adobe's generative image and video tools, integrated with Creative Cloud.
+- [AI Chili](https://aichili.ai/) — Multi-model video and image generation studio (text-to-video, image-to-video, first-to-last-frame, 4K upscale) with a developer API and publishing to its sister short-drama streaming site OnlyChili.
 - [D-ID](https://www.d-id.com/) — Talking-avatar and video agent platform, with an API.
 - [Genmo](https://www.genmo.ai/) — Video generation service from the makers of the open-weight Mochi model.
 - [Hailuo AI (MiniMax)](https://hailuoai.video/) — MiniMax's video generation service built on its Hailuo models, with an API.
@@ -134,6 +135,7 @@ Tools whose input is a script, a novel or a story idea and whose output is episo
 - [KomikoAI](https://komiko.app/) — Anime-focused creation suite for original characters, AI comics and animation videos, with series and interactive story formats.
 - [LlamaGen (Comic to Video)](https://llamagen.ai/comic-to-video) — AI comic, manga and webtoon platform with a comic-to-video tool that animates finished panels into teasers and short scenes.
 - [Moonvalley Marey](https://www.moonvalley.com/marey) — AI video model and app (Marey) trained on licensed footage, offering text- and image-to-video with camera, motion, pose and keyframe controls, marketed to filmmakers, studios and agencies.
+- [OnlyChili](https://onlychili.aichili.ai/) — Creator streaming site for AI-made short dramas, multi-episode playlists and vertical 9:16 Shorts, with free public episodes, channel subscriptions and pay-per-view unlocks (80% creator payout stated on `/creators`).
 - [Storyboarder.ai](https://www.storyboarder.ai/) — Pre-production tool that turns an uploaded script into a shot list, storyboard frames with consistent characters, 3D camera-angle reframing and animatics, with short image-to-video clips.
 
 ## Open-weight video models
