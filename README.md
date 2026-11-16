@@ -67,6 +67,7 @@ Tools whose input is a script, a novel or a story idea and whose output is episo
 - [MagicLight](https://magiclight.ai/) — Story-to-video platform that turns a story or script into a long-form animated or realistic video with recurring characters, voiceover and lip sync.
 - [Mootion](https://www.mootion.com/) — AI storytelling video generator that turns prompts, scripts, audio or links into multi-scene narrative videos with consistent characters, voiceover and 3D camera control.
 - [OiiOii](https://www.oiioii.ai/) — Multi-agent AI animation platform where seven role agents write, design, animate, edit and score animated shorts and episodic shorts from a prompt.
+- [Pavo AI](https://pavoai.app/) — AI video generator and image-to-video maker for short-drama and social clips that reuses one cast of characters across generated shots, with a free tier to start.
 - [Revid AI](https://www.revid.ai/) — Text/URL-to-video generator for short-form and multi-minute faceless videos, including manga-style story videos and an animated series showcase.
 - [Story.com](https://www.story.com/) — AI movie maker and video editor with a movie agent that turns a prompt or script into short films, storybooks and storyboards.
 - [SwipeStory](https://www.swipestory.click/) — Faceless story video generator that produces and auto-publishes niche story series for TikTok, Instagram and YouTube.
