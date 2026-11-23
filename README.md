@@ -111,6 +111,7 @@ Tools whose input is a script, a novel or a story idea and whose output is episo
 - [D-ID](https://www.d-id.com/) — Talking-avatar and video agent platform, with an API.
 - [Genmo](https://www.genmo.ai/) — Video generation service from the makers of the open-weight Mochi model.
 - [Hailuo AI (MiniMax)](https://hailuoai.video/) — MiniMax's video generation service built on its Hailuo models, with an API.
+- [Kavel](https://www.kavel.ai/) — Kavel is a free AI video generator and AI image generator — 4K clips with sound, and images you can run without an account or a card.
 - [Kling AI](https://klingai.com/) — Kuaishou's video generation models and app: text-to-video, image-to-video, lip sync, a developer API.
 - [Leonardo.Ai](https://leonardo.ai/) — Image generation platform with a Motion feature for animating images into short clips.
 - [Midjourney](https://www.midjourney.com/) — Image generation service that added video generation from its images in 2025.
