@@ -71,6 +71,7 @@ Tools whose input is a script, a novel or a story idea and whose output is episo
 - [Story.com](https://www.story.com/) — AI movie maker and video editor with a movie agent that turns a prompt or script into short films, storybooks and storyboards.
 - [SwipeStory](https://www.swipestory.click/) — Faceless story video generator that produces and auto-publishes niche story series for TikTok, Instagram and YouTube.
 - [TaleTok](https://taletok.io/) — Faceless YouTube automation service that generates and posts narrated story videos (e.g. Reddit stories) daily.
+- [Free Image to Video](https://freeimagetovideo.ai/) - Free image to video AI with no daily cap: start with no sign-up, keep going on a free account. Every video comes with sound and no watermark.
 
 ### General video with a story layer
 
