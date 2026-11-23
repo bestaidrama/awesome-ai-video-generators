@@ -125,6 +125,7 @@ Tools whose input is a script, a novel or a story idea and whose output is episo
 ### Comics, animation and other
 
 - [AI Drama Production Studio (dreamaishort.com)](https://dreamaishort.com/) — Done-for-you AI drama production service that scripts, casts, voices and edits AI drama series for TikTok and Shorts, priced per finished minute.
+- [Angry Dance](https://angrydance.com/) — Browser-based single-photo AI dance, pet dance, and 9:16 short-form video generator with 40+ one-tap effects, upfront credit pricing, and watermark-free downloads.
 - [Anifusion](https://anifusion.ai/) — AI manga and webtoon creator with panel layouts, characters and speech bubbles plus an animator that turns images into short video.
 - [Autodesk Flow Studio (formerly Wonder Studio)](https://flowstudio.autodesk.com/) — Autodesk cloud tool that uses AI for motion capture, camera tracking and character animation to place CG characters into live-action footage and export editable 3D scenes.
 - [Drawstory](https://www.drawstory.ai/) — AI storyboarding and previs tool that converts uploaded screenplays into storyboards and comics with user-supplied characters, plus pitch and storyboard-to-video tools.
