@@ -109,6 +109,7 @@ Tools whose input is a script, a novel or a story idea and whose output is episo
 
 - [Adobe Firefly](https://firefly.adobe.com/) — Adobe's generative image and video tools, integrated with Creative Cloud.
 - [D-ID](https://www.d-id.com/) — Talking-avatar and video agent platform, with an API.
+- [FreyaVideo Live Face Swap](https://freyavideo.com/live-face-swap?utm_source=github.com&utm_medium=referral&utm_campaign=lfs-promo) — Cloud-based browser tool for live webcam character swapping and scene restyling without a local GPU; new accounts receive a one-time 60-second trial after sign-in, followed by 30 credits per minute billed by the second.
 - [Genmo](https://www.genmo.ai/) — Video generation service from the makers of the open-weight Mochi model.
 - [Hailuo AI (MiniMax)](https://hailuoai.video/) — MiniMax's video generation service built on its Hailuo models, with an API.
 - [Kling AI](https://klingai.com/) — Kuaishou's video generation models and app: text-to-video, image-to-video, lip sync, a developer API.
